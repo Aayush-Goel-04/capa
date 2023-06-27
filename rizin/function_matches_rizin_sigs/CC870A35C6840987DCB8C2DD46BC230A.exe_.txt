@@ -1,0 +1,15 @@
+___get_entropy
+__SEH_prolog4
+___scrt_initialize_crt
+___scrt_acquire_startup_lock
+___scrt_release_startup_lock
+_find_pe_section__YAPAU_IMAGE_SECTION_HEADER__QAEI_Z
+_wprintf
+___scrt_fastfail
+__except_handler4
+__RTC_Initialize
+___scrt_unhandled_exception_filter_4
+___scrt_initialize_default_local_stdio_options
+___scrt_is_managed_app
+___scrt_uninitialize_crt
+_atexit

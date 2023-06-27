@@ -1,0 +1,219 @@
+1 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/02179f3ba93663074740b5c0d283bae2.exe_ , 0
+2 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/021f49678cd633dc8cf99c61b3af3dda.exe_ , 1
+3 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/034b7231a49387604e81a5a5d2fe7e08f6982c418a28b719d2faace3c312ebb5.exe_ , 140
+4 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/039a6336d0802a2255669e6867a5679c7eb83313dbc61fb1c7232147379bd304.exe_ , 0
+5 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0596c4ea5aa8def47f22c85d75aaca95.exe_ , 7
+6 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/068a76d4823419b376d418cf03215d5c.exe_ , 0
+7 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0731679c5f99e8ee65d8b29a3cabfc6b.exe_ , 242
+8 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0796f1c1ea0a142fc1eb7109a44c86cb.exe_ , 25
+9 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/07f7846bbcda782e5639292ad93907eb.exe_ , 1
+10 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/08ac667c65d36d6542917655571e61c8.exe_ , 4
+11 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0953cc3b77ed2974b09e3a00708f88de931d681e2d0cb64afbaf714610beabe6.exe_ , 0
+12 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0a0882b8da225406cc838991b5f67d11.exe_ , 266
+13 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0cd2b334aede270b14868db28211cde3.exe_ , 0
+14 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0ce3bfa972ced61884ae7c1d77c7d4c45e17c7d767e669610cf2ef72b636b464.exe_ , 5
+15 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/0fd8330e00aa48676d6d0c4f36e9a80b.exe_ , 1
+16 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/10ebcf8c20403457a08762200015b151.exe_ , 136
+17 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/112f9f0e8d349858a80dd8c14190e620.exe_ , 2002
+18 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/1195d0d18be9362fb8dd9e1738404c9d.exe_ , 3
+19 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/138c71e94961fe9e31cec5dfba62a639.exe_ , 30
+20 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/152d4c9f63efb332ccb134c6953c0104.exe_ , 34
+21 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/dotnet/1c444ebeba24dcba8628b7dfe5fec7c6.exe_ , 0
+22 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/1d8fd13c890060464019c0f07b928b1a.exe_ , 1
+23 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/1e609dffd12a59ea5d5c9b3055939b1f.exe_ , 422
+24 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/1e9fc7f32bd5522dd0222932eb9f1d8bd0a2e132c7b46cfcc622ad97831e6128.exe_ , 9
+25 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/203bd48bcc18434314ad60f4c8bc21e3d3422eb0624b22b827410f9bc63b4082.exe_ , 100
+26 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2055994ff75b4309eee3a49c5749d306.exe_ , 0
+27 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/22d0a2e4c9c2163b2bf5f0e41a2e1762.exe_ , 14
+28 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/23e19068ecba68d4396bc097e0278b8eca7e7dcaa4978e34d683231ad2219ae3.exe_ , 0
+29 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/276f691a3df25481f59d79781799e35f.exe_ , 334
+30 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2826b762b9c268601a44974ef469a671b441e798a6c3cbb40070450c6c030ba2.exe_ , 0
+31 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2a584dfc657348d164274a12bff9bbd8.exe_ , 396
+32 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2a7429d60040465f9bd27bbae2beef88.exe_ , 0
+33 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2b8bec5bcb1777eaa155d832f7afc797.exe_ , 0
+34 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2d3edc218a90f03089cc01715a9f047f.exe_ , 16
+35 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2dae11cc5f86f5399b560b8837c26274b7e09431deed669b0844fef44e917915.exe_ , 0
+36 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2ebadd04f0ada89c36c1409b6e96423a68dd77b513db8db3da203c36d3753e5f.exe_ , 26
+37 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2f9ff544d5cc945b453356f9b20c07d8.exe_ , 442
+38 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/2fd45662e3d0ec0077ea2fa66b6378f0.exe_ , 0
+39 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/30ee31a532545d2fb456b6204dc443d5.exe_ , 214
+40 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/31600ad0d1a7ea615690df111ae36c73.exe_ , 8
+41 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/31bd8dd48ac0de3d4da340bf29f4d280.exe_ , 0
+42 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/31cee4f66cf3b537e3d2d37a71f339f4.exe_ , 38
+43 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/321338196a46b600ea330fc5d98d0699.exe_ , 580
+44 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3265b2b0afc6d2ad0bdd55af8edb9b37.exe_ , 1385
+45 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/32b3678f8c29437e9ea10eab10194f66.exe_ , 322
+46 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/34404a3fb9804977c6ab86cb991fb130.exe_ , 342
+47 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3446b3889a52d81119d8c482a2a282b9.exe_ , 2
+48 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/354a5de061795f8d961aae8e668ba9968083b1af09eeb9caed0111e7503974b5.exe_ , 0
+49 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/378ecc1b2e60129c9f06bb6bb8042f2b95feca5f526a4c26a5c39707807fa259.exe_ , 437
+50 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3808f21e56dede99bc914d90aeabe47a.exe_ , 0
+51 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/395eb0ddd99d2c9e37b6d0b73485ee9c.exe_ , 73
+52 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/39ce034911a6ebd482af5893f9bdbd95.exe_ , 2
+53 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3ca359f5085bb96a7950d4735b089ffe.exe_ , 3
+54 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3d0d79c4715e5b6dd2f8704e4878d57646d5a92e1116aec2ef81a5679ba45cd8.exe_ , 6
+55 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3d760b6fc84571c928bed835863fc302.exe_ , 4
+56 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3f3bbcf8fd90bdcdcdc5494314ed4225.exe_ , 1299
+57 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/3fdfb2d522e7deecaaaf2f87420f7e75.exe_ , 0
+58 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/4122acca2f9ea98fc3f3ad040688e4ce.exe_ , 0
+59 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/44d40faf3f1fe4ed969befab7afcd2f0.exe_ , 17
+60 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/464ef2ca59782ce697bc329713698ccc.exe_ , 248
+61 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/477743976643213d96b66ed5041a3b12.exe_ , 1762
+62 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/48c7ad2d9d482cb11898f2719638ceed.exe_ , 2
+63 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/49a34cfbeed733c24392c9217ef46bb6.exe_ , 0
+64 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/4bdd67ff852c221112337fecd0681eac.exe_ , 1
+65 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/4e9c546a54e40d0da89bb4616dd7f8c4.exe_ , 418
+66 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/4f11bdb380dafa2518053c6d20147a05.exe_ , 0
+67 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/50d5ee1ce2ca5e30c6b1019ee64eeec2.exe_ , 383
+68 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/55d77ab16377a8a314982f723fcc6fae.exe_ , 362
+69 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/563653399b82cd443f120eceff836ea3678d4cf11d9b351bb737573c2d856299.exe_ , 50
+70 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5789181cba467fa940cdce809b88b9bf7e0e9d4e079e32a68d2b911a8cc47da9.exe_ , 271
+71 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/580c37831fe98a254eb6c61c692c70d8.exe_ , 1
+72 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/58adc2e97fbee01b71073ccd7ff1b9a4.exe_ , 0
+73 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/59a6c5036241a2f604e755bf523eb084.exe_ , 23
+74 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5a2f620f29ca2f44fc22df67b674198f.exe_ , 0
+75 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5b3968b47eb16a1cb88525e3b565eab1.exe_ , 0
+76 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5d7c34b6854d48d3da4f96b71550a221.exe_ , 3
+77 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5dd0b130d5c3d40c69e3972f39fd7d62.exe_ , 5
+78 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5e6764534b3a1e4d3abacc4810b6985d.exe_ , 9
+79 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5f66b82558ca92e54e77f216ef4c066c.exe_ , 35
+80 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/5fbbfeed28b258c42e0cfeb16718b31c.exe_ , 3
+81 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/638dcc3d37b3a574044233c9637d7288.exe_ , 0
+82 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/648fc498110b11b4313a47a776e6ba40.exe_ , 6
+83 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/658b0502b53f718bd0611a638dfd5969.exe_ , 138
+84 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/65b1ea6e5254d458c602504ceeda5e05.exe_ , 272
+85 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/66602b5fab602cb4e6f754748d249542.exe_ , 427
+86 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/67f8302a2fd28d15f62d6d20d748bfe350334e5353cbdef112bd1f8231b5599d.exe_ , 5
+87 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/dotnet/692f7fd6d198e804d6af98eb9e390d61.exe_ , 0
+88 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/6b25f1e754ef486bbb28a66d46bababe.exe_ , 350
+89 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/6be0ae5cb7c3155f70d608fc7670d2d9.exe_ , 529
+90 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/6cc148363200798a12091b97a17181a1.exe_ , 1426
+91 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/6cd1315f6f2fa4f8ee2b98bb3ca0a994.exe_ , 258
+92 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/6f99a2c8944cb02ff28c6f9ced59b161.exe_ , 1151
+93 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/6f9cb3f56d227fd57f0b75220472d744a6de894e7f74302ae39bbb164a92cdd6.exe_ , 89
+94 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/6fcc13563aad936c7d0f3165351cb453.exe_ , 196
+95 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/70fd3347786ed7a4a43910e6778ef296.exe_ , 1
+96 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/71a4f9b800d81ff6632b9892a6a502c412c141341e46d697a8c004e2f460913b.exe_ , 0
+97 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/7204e3efc2434012e13ca939db0d0b02.exe_ , 25
+98 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/73ce04892e5f39ec82b00c02fc04c70f.exe_ , 4
+99 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/749e7becf00fccc6dff324a83976dc0d.exe_ , 0
+100 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/74e0758e469ab87f38cda7925d696ea41a122364891860e1ae30fc9ff2f68e7d.exe_ , 0
+101 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/74fa32d2b277f583010b692a3f91b627.exe_ , 267
+102 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/757139e76fae876ae50dd2c3ac11d5d8.exe_ , 1
+103 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/773290480d5445f11d3dc1b800728966.exe_ , 4
+104 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/77d87e9937546aebc1595039d730352b15fab32c72a76913f04262c6802d098f.exe_ , 145
+105 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/787cbc8a6d1bc58ea169e51e1ad029a637f22560660cc129ab8a099a745bd50e.exe_ , 7
+106 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/79cde1aa711e321b4939805d27e160be.exe_ , 194
+107 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/7c843e75d4f02087b932fe280df9c90c.exe_ , 71
+108 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/7d16efd0078f22c17a4bd78b0f0cc468.exe_ , 76
+109 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/7e17f0f35d50f49407841372f24fbd38.exe_ , 155
+110 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/7fbc17a09cf5320c515fc1c5ba42c8b3.exe_ , 44
+111 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/80372de850597bd9e7e021a94f13f0a1.exe_ , 3
+112 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/805f79e57e4ce24b95a04541e4ea55dd2ce9ba314ab2c43491328204bc25d017.exe_ , 0
+113 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/82bf6347acf15e5d883715dc289d8a2b.exe_ , 7
+114 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/8333822ed41d9f2b302cf8e21b126efc.exe_ , 1
+115 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/84a1212f4a91066babcf594d87a85894.exe_ , 352
+116 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/873275ce8bf88ef66e9fa0c74b5c2a1e.exe_ , 2
+117 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/8775ed26068788279726e08ff9665aab.exe_ , 0
+118 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/8b1682c85612db9f62eb3600a90b54e83117bb756a7456c9f82ccdcb0bf4b7e4.exe_ , 13
+119 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/8ba66e4b618ffdc8255f1df01f875dde6fd0561305d9f8307be7bb11d02ae363.exe_ , 901
+120 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/91a12a4cf437589ba70b1687f5acad19.exe_ , 548
+121 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/92d8ea10ea30e8b534334a1c9857a455.exe_ , 327
+122 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/9324d1a8ae37a36ae560c37448c9705a.exe_ , 0
+123 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/94d3c854aadbcfde46b2f82801015c31.exe_ , 1288
+124 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/971e599e6e707349eccea2fd4c8e5f67.exe_ , 0
+125 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/98c37c3c23bbfb362dac7754c6ba48e75cf24d73bc963a4cdfca557b9e016909.exe_ , 2
+126 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/9bca6b99e7981208af4c7925b96fb9cf.exe_ , 0
+127 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/9d98f8519d9fee8219caca5b31eef0bd.exe_ , 0
+128 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/9dc209f66da77858e362e624d0be86b3.exe_ , 186
+129 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/9f012d7e3ae8f62370278e372691eb73b878fe2280b6083e1be637b278021855.exe_ , 4
+130 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/9ff8e68343cc29c1036650fc153e69f7.exe_ , 5
+131 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/CC870A35C6840987DCB8C2DD46BC230A.exe_ , 19
+132 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 01-01.exe_ , 1
+133 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 01-02.exe_ , 0
+134 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 01-04.exe_ , 2
+135 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 03-03.exe_ , 31
+136 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 03-04.exe_ , 112
+137 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 06-03.exe_ , 68
+138 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 10-03.exe_ , 32
+139 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 11-01.exe_ , 82
+140 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 11-03.exe_ , 83
+141 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 12-01.exe_ , 51
+142 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 12-02.exe_ , 31
+143 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 12-03.exe_ , 31
+144 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 12-04.exe_ , 0
+145 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 14-01.exe_ , 44
+146 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 14-02.exe_ , 2
+147 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 16-01.exe_ , 0
+148 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 16-02.exe_ , 68
+149 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 16-03.exe_ , 51
+150 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 17-03.exe_ , 1
+151 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 18-01.exe_ , 0
+152 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 18-03.exe_ , 0
+153 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 19-02.exe_ , 68
+154 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 20-02.exe_ , 48
+155 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/Practical Malware Analysis Lab 21-01.exe_ , 93
+156 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a0fb20bc9aa944c3a0a6c4545c195818.exe_ , 359
+157 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a1451e3108e85769302ad25c74757180.exe_ , 520
+158 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a198216798ca38f280dc413f8c57f2c2.exe_ , 0
+159 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a30101595f6f28ab2f4b0b2cd177c3c4d2ab34a355ab7761a3795d0887c24ada.exe_ , 529
+160 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a3c0a2425ea84103adde03a92176424c.exe_ , 0
+161 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a45e377dbb98a6b44fd4034bc3fff9b0.exe_ , 89
+162 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a563c50c5fa0fd541248acaf72cc4e7d.exe_ , 862
+163 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a5c70086b3bc4fe64f4e7a0aa452e620.exe_ , 196
+164 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a5d66324daaee5672b913aa461d4bd3a.exe_ , 359
+165 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a70052c45e907820187c7e6bcdc7ecca.exe_ , 0
+166 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a74ee8200aace7d19dee79871bbf2ed3.exe_ , 21
+167 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/a90e5b3454aa71d9700b2ea54615f44b.exe_ , 709
+168 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ac742739cae0d411dfcb78ae99a7baee.exe_ , 13
+169 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ad4229879180e267f431ac6666b6a0a2.exe_ , 1201
+170 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/af13e7583ed1b27c4ae219e344a37e2b.exe_ , 0
+171 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/al-khaser_x64.exe_ , 0
+172 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/al-khaser_x86.exe_ , 20
+173 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/b2ad4409323147b63e370745e5209996.exe_ , 13
+174 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/b766cc43d649d30e9f27aff8f7ee7de0.exe_ , 6
+175 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/b7b5e1253710d8927cbe07d52d2d2e10.exe_ , 0
+176 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/b83480162ede09d4aa6d4850f9faa0a4c3834152752fd04cfdb22d647aa1f825.exe_ , 214
+177 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/b87e9dd18a5533a09d3e48a7a1efbcf6.exe_ , 212
+178 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/b9f5bd514485fb06da39beff051b9fdc.exe_ , 0
+179 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ba947eb07d8c823949316a97364d060f.exe_ , 0
+180 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/bb7922d368a9a9c8d981837b5ad988f1.exe_ , 0
+181 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/bc452cc1128ccf7fa9f76d83cda79132740414973600fed14509749fe946816e.exe_ , 373
+182 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/bf88e1bd4a3bde10b419a622278f1ff7.exe_ , 109
+183 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c1969efd1e2be79909b880f4dbb8725e52efca82236f8a2165c5a8245393fcd6.exe_ , 63
+184 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c2bb17c12975ea61ff43a71afd9c3ff111d018af161859abae0bdb0b3dae98f9.exe_ , 21
+185 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c3341b7dfbb9d43bca8c812e07b4299f.exe_ , 261
+186 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c335a9d41185a32ad918c5389ee54235.exe_ , 3
+187 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c3699d0c7bd1276184249a487c1f0d7f.exe_ , 3
+188 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c56af5561e3f20bed435fb4355cffc29.exe_ , 2
+189 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c66172b12971a329f8d5ff01665f204b.exe_ , 7
+190 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/c91887d861d9bd4a5872249b641bc9f9.exe_ , 0
+191 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ccbf7cba35bab56563c0fbe4237fdc41.exe_ , 17
+192 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/cd2cba9e6313e8df2c1273593e649682.exe_ , 0
+193 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ce8d7590182db2e51372a4a04d6a0927a65b2640739f9ec01cfd6c143b1110da.exe_ , 262
+194 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/d063b1804e8d2bb26bd2e097141c1bbc.exe_ , 1498
+195 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/d7ff81ff775d4ab50d31ac1e962c8c4dea7ff9f280aa2b42ddd06760a5665002.exe_ , 1
+196 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/d87ba0bfce1cdb17fd243b8b1d247e88.exe_ , 0
+197 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/d9630c174b8ff5c0aa26168df523e63e.exe_ , 644
+198 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/daa13ae302fe8b618ddbf590537443ef.exe_ , 0
+199 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/db9fe790b4e18abf55df31aa0b81e558.exe_ , 0
+200 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/dc4dc746d8a14060fb5fc7edd4ef5282.exe_ , 0
+201 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/dc9eb40429d6fa2f15cd34479cb320c8.exe_ , 209
+202 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/e353d3fbfb5c3738a77a622adff9a416.exe_ , 1
+203 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/e4c33ac3638eef68311f8ac0d72483c7.exe_ , 769
+204 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/e5369ac309f1be6d77afeeb3edab0ed8.exe_ , 0
+205 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/e544a4d616b60147d9774b48c2b65ef2.exe_ , 222
+206 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/e59ffeaf7acb0c326e452fa30bb71a36.exe_ , 109
+207 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/e69a8eb94f65480980deaf1ff5a431a6.exe_ , 262
+208 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/e87076a1182ba40758e1d7258442c1ee23bf71ac77fad9f3babc707dce11c144.exe_ , 0
+209 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/eaad7dfc78304b977d3844cc63577152.exe_ , 1670
+210 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ed888dc2f04f5eac83d6d14088d002de.exe_ , 12
+211 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/f03bdb9fa52f7b61ef03141fefff1498ad2612740b1fdbf6941f1c5af5eee70a.exe_ , 0
+212 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/f0a6a1bd6d760497623611e8297a81df.exe_ , 0
+213 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/f4584aed97469c461826ea17ca9b3c1d.exe_ , 4
+214 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/f9ac6b16273556b3a57bf2c6d7e7db97.exe_ , 0
+215 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/fbbaaf569b63f6398503e4f1979cabef.exe_ , 295
+216 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ffcf88ead82bdfc159376026f5a9a7da49e593497674bdb6fa7f7d03dd9398d9.exe_ , 92
+217 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ffeae4a391a1d5203bd04b4161557227.exe_ , 5
+218 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/mimikatz.exe_ , 0
+219 , /Users/ayush.goel/Documents/GitHub/capa/tests/data/ping_täst.exe_ , 0

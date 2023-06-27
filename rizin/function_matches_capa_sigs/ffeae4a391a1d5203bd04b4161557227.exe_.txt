@@ -1,0 +1,5 @@
+__aulldiv
+__alloca_probe
+?
+__allmul
+?ValidateAndCacheConnectionInfo@CBaseAudioProcessingObject@@MAEJIPAPAUAPO_CONNECTION_DESCRIPTOR@@I0@Z

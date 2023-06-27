@@ -1,0 +1,11 @@
+___security_init_cookie
+__SEH_prolog4
+__SEH_epilog4
+__chkstk
+__initterm_e
+__local_unwind4
+__unwind_handler4
+__EH4_GlobalUnwind_4
+__EH4_LocalUnwind_16
+__EH4_TransferToHandler_8
+__except_handler4

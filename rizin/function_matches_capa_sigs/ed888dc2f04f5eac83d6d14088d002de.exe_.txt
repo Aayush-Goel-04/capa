@@ -1,0 +1,12 @@
+___security_init_cookie
+__SEH_prolog4
+__ValidateImageBase
+__FindPESection
+__IsNonwritableInCurrentImage
+_mainCRTStartup
+__except_handler4
+__setdefaultprecision
+?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z
+__onexit
+_atexit
+___report_gsfailure

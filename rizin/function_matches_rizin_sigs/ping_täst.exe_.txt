@@ -1,0 +1,2 @@
+___security_init_cookie
+__SEH_epilog4

@@ -1,0 +1,13 @@
+___security_init_cookie
+__SEH_prolog4
+___scrt_initialize_crt
+_Curl_tls_keylog_enabled
+___scrt_is_nonwritable_in_current_image
+___scrt_get_show_window_mode
+@__security_check_cookie@4
+___scrt_uninitialize_crt
+_mainCRTStartup
+__except_handler4
+___scrt_initialize_default_local_stdio_options
+___scrt_initialize_onexit_tables
+_atexit

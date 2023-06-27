@@ -1,0 +1,17 @@
+__setdefaultprecision
+__alldiv
+_WinMainCRTStartup
+__alloca_probe
+?
+__NLG_Notify
+__local_unwind4
+?Init@CComCriticalSection@ATL@@QAEJXZ
+@_EH4_CallFilterFunc@8
+__ValidateImageBase
+__FindPESection
+__IsNonwritableInCurrentImage
+@_EH4_LocalUnwind@16
+@_EH4_TransferToHandler@8
+__except_handler4
+__global_unwind2
+___report_gsfailure

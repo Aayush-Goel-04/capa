@@ -1,0 +1,4 @@
+___crtTerminateProcess
+_wcslen
+__allmul
+?

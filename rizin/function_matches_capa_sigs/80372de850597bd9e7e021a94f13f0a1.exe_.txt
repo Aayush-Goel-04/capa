@@ -1,0 +1,3 @@
+_exit
+__aullshr
+__alldiv

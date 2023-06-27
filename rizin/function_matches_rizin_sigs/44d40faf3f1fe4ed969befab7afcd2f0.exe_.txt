@@ -1,0 +1,13 @@
+__chkstk
+__aulldvrm
+__allmul
+__aulldiv
+__aullshr
+__aullrem
+__except_handler4
+__RTC_Initialize
+__SEH_prolog4
+__SEH_epilog4
+__ValidateImageBase
+__IsNonwritableInCurrentImage
+___security_init_cookie

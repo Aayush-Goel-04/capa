@@ -1,0 +1,2 @@
+__setdefaultprecision
+_WinMainCRTStartup

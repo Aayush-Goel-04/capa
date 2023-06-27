@@ -1,0 +1,6 @@
+__setdefaultprecision
+_WinMainCRTStartup
+__aulldiv
+?
+?_GetRuntimeOwnsLifetime@_UnrealizedChore@details@Concurrency@@QBE_NXZ
+__alloca_probe

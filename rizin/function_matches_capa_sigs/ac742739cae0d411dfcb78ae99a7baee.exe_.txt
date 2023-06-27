@@ -1,0 +1,13 @@
+__security_init_cookie
+_ValidateImageBase
+_FindPESection
+_IsNonwritableInCurrentImage
+_guard_dispatch_icall_nop
+__raise_securityfailure
+__security_check_cookie
+?
+mainCRTStartup
+__report_gsfailure
+__CxxSetUnhandledExceptionFilter
+__GSHandlerCheckCommon
+__GSHandlerCheck

@@ -1,0 +1,4 @@
+__acrt_locale_free_monetary
+_lseeki64_nolock
+mbtowc
+__stdio_common_vswprintf

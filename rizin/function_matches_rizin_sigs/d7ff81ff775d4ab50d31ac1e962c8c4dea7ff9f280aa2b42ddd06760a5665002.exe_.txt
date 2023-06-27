@@ -1,0 +1,3 @@
+__SEH_prolog
+__SEH_epilog
+__global_unwind2

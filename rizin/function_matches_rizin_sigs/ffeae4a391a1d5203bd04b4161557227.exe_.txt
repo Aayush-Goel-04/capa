@@ -1,0 +1,3 @@
+__aulldiv
+__chkstk
+__allmul

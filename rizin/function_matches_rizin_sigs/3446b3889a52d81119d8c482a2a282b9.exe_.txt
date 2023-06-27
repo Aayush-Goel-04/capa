@@ -1,0 +1,4 @@
+__SEH_prolog
+__SEH_epilog
+__chkstk
+__allmul

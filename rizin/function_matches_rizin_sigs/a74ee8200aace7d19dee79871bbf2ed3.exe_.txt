@@ -1,0 +1,4 @@
+__4COleCurrency__QAEABV0_ABV0__Z
+_Add___CArray_VCVariantBoolPair__ABV1___QAEHABVCVariantBoolPair___Z
+___GCPaintDC__UAEPAXI_Z
+___GCHtmlStream__UAEPAXI_Z

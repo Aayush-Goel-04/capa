@@ -1,0 +1,14 @@
+__security_init_cookie
+_guard_dispatch_icall_nop
+_ValidateImageBase
+_FindPESection
+_IsNonwritableInCurrentImage
+__raise_securityfailure
+__security_check_cookie
+RtlStringCchCatW
+RtlStringCchCopyW
+??2@YAPEAX_K@Z
+?ReposTasks@CMFCTasksPane@@MEAAHH@Z
+__report_gsfailure
+__GSHandlerCheckCommon
+__GSHandlerCheck

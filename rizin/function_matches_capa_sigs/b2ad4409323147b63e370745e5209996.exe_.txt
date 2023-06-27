@@ -1,0 +1,13 @@
+__SEH_prolog4
+__ValidateImageBase
+__FindPESection
+__alloca_probe
+__initterm_e
+@__security_check_cookie@4
+__NLG_Notify
+__local_unwind4
+@_EH4_CallFilterFunc@8
+@_EH4_LocalUnwind@16
+@_EH4_TransferToHandler@8
+__except_handler4_common
+__except_handler4

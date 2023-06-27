@@ -1,0 +1,9 @@
+__setdefaultprecision
+_WinMainCRTStartup
+__EH_prolog
+__alloca_probe
+?
+__allmul
+?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z
+??_L@YGXPAXIHP6EX0@Z1@Z
+??_M@YGXPAXIHP6EX0@Z@Z

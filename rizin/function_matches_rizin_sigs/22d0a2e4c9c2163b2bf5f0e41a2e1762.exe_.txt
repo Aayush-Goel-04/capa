@@ -1,0 +1,11 @@
+_ValidateImageBase
+_IsNonwritableInCurrentImage
+_DllMainCRTStartup
+__raise_securityfailure
+StringCchCatW
+__2_YAPEAX_K_Z
+___GCOleException__UEAAPEAXI_Z
+__report_gsfailure
+__GSHandlerCheckCommon
+__GSHandlerCheck
+_heapwalk_filt_0

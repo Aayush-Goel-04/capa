@@ -1,0 +1,9 @@
+_wcslen
+__strlen_priv__YAIPBD_Z
+__allmul
+__vcprintf_p
+__Thrd_hardware_concurrency
+_AddRef__AfxBindHost__UAGKXZ
+__alloca_probe
+__ftol2_pentium4
+__ftol2

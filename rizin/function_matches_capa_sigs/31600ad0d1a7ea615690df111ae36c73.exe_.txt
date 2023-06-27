@@ -1,0 +1,8 @@
+__setdefaultprecision
+_WinMainCRTStartup
+?
+?Width@CRect@@QBEHXZ
+?Height@CRect@@QBEHXZ
+__onexit
+_atexit
+?_getFiberPtrId@@YAPAXXZ

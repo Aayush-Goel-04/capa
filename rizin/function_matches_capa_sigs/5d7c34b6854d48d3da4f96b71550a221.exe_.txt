@@ -1,0 +1,3 @@
+__setdefaultprecision
+__alloca_probe
+_DES_crypt

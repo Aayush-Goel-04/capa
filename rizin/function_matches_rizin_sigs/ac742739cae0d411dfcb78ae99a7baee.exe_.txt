@@ -1,0 +1,8 @@
+_ValidateImageBase
+_IsNonwritableInCurrentImage
+__raise_securityfailure
+__report_gsfailure
+__GSHandlerCheckCommon
+__GSHandlerCheck
+__DllMainCRTStartup_filt_0
+_heapwalk_filt_0

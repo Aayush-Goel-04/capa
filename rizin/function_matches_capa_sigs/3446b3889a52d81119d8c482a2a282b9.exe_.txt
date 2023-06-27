@@ -1,0 +1,2 @@
+__alloca_probe
+__allmul

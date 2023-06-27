@@ -1,0 +1,5 @@
+?
+?UnregisterCOMObject@?$Module@$00VInProcModule@Details@Platform@@@WRL@Microsoft@@UAGJPB_WPAKI@Z
+_async_start_func_win@4
+?OnRename@XAdviseSink@COleClientItem@@UAGXPAUIMoniker@@@Z
+??2@YAPAXIPAX@Z

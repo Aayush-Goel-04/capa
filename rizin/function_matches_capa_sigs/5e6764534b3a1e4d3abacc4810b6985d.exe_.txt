@@ -1,0 +1,9 @@
+__setdefaultprecision
+_WinMainCRTStartup
+??0scheduler_worker_creation_error@Concurrency@@QAE@PBDJ@Z
+??0AFX_CLASSINIT@@QAE@PAUCRuntimeClass@@@Z
+?
+__onexit
+_atexit
+??0_AFX_OLE_STATE@@QAE@XZ
+?GetOwningRoot@VirtualProcessor@details@Concurrency@@QAEPAUIVirtualProcessorRoot@3@XZ

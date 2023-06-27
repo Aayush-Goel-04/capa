@@ -1,0 +1,2 @@
+__setdefaultprecision
+?ValidateAndCacheConnectionInfo@CBaseAudioProcessingObject@@MAEJIPAPAUAPO_CONNECTION_DESCRIPTOR@@I0@Z

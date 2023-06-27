@@ -1,0 +1,7 @@
+?
+__get_machine_status
+memcpy_s
+?SetCommandUsageOptions@CMFCToolBar@@SAHII@Z
+DetourCodeFromPointer
+??$NumericLimitsMax@_K@CryptoPP@@YA_KXZ
+mbedtls_des_setkey_enc

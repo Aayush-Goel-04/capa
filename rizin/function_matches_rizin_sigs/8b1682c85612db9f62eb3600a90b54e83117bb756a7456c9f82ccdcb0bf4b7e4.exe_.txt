@@ -1,0 +1,10 @@
+___get_entropy
+__SEH_prolog4
+___scrt_initialize_crt
+___scrt_get_show_window_mode
+___scrt_uninitialize_crt
+__except_handler4
+__RTC_Initialize
+___scrt_unhandled_exception_filter_4
+___scrt_initialize_default_local_stdio_options
+_atexit

@@ -1,0 +1,4 @@
+__alloca_probe
+?
+__aulldiv
+_RtlSecureZeroMemory

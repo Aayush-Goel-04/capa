@@ -1,0 +1,8 @@
+__allmul
+__SEH_epilog
+__aulldiv
+__alldvrm
+_log__YAOO_Z
+__alldiv
+__aullshr
+__aullrem

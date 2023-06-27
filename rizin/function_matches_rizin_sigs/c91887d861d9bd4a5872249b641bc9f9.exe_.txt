@@ -1,0 +1,11 @@
+___crtFlsGetValue
+__SEH_epilog4
+__RTC_Terminate
+__EH4_GlobalUnwind2_8
+___scrt_unhandled_exception_filter_4
+___GCMFCCaptionMenuButton__UAEPAXI_Z
+___GCWin32Heap_ATL__UAEPAXI_Z
+__0__CTypedPtrList_VCPtrList__PAUCOleControlSiteOrWnd____QAE_H_Z
+__get_fmode
+__wsopen_s
+_swprintf

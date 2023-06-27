@@ -1,0 +1,17 @@
+__alloca_probe
+__aulldvrm
+__allmul
+__aulldiv
+__aullshr
+__aullrem
+_OBJ_get0_data
+__except_handler4
+__SEH_prolog4
+__onexit
+_atexit
+__ValidateImageBase
+__FindPESection
+__IsNonwritableInCurrentImage
+_DllMain@12
+___security_init_cookie
+___report_gsfailure

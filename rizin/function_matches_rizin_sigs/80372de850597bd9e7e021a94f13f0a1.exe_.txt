@@ -1,0 +1,2 @@
+__aullshr
+__alldiv

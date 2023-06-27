@@ -1,0 +1,6 @@
+___security_init_cookie
+__SEH_prolog4
+__IsNonwritableInCurrentImage
+__SEH_epilog4
+__except_handler4
+_atexit

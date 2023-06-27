@@ -1,0 +1,5 @@
+__vcprintf_p
+_free
+__allmul
+__aulldiv
+__aullrem

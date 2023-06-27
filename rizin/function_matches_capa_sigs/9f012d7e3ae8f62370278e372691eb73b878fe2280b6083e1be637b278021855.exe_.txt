@@ -1,0 +1,4 @@
+__setdefaultprecision
+__EH_prolog
+__alloca_probe
+_WinMainCRTStartup

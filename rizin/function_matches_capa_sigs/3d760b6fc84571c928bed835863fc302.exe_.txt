@@ -1,0 +1,4 @@
+__setdefaultprecision
+_WinMainCRTStartup
+__alloca_probe
+__aullshr
