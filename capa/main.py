@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Copyright (C) 2020 Mandiant, Inc. All Rights Reserved.
+Copyright (C) 2023 Mandiant, Inc. All Rights Reserved.
 Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
 You may obtain a copy of the License at: [package root]/LICENSE.txt
@@ -20,7 +20,7 @@ import textwrap
 import itertools
 import contextlib
 import collections
-from typing import Any, Dict, List, Tuple, Callable
+from typing import Any, Dict, List, Tuple, Callable, Optional
 from pathlib import Path
 
 import halo
@@ -85,6 +85,7 @@ SIGNATURES_PATH_DEFAULT_STRING = "(embedded signatures)"
 BACKEND_VIV = "vivisect"
 BACKEND_DOTNET = "dotnet"
 BACKEND_BINJA = "binja"
+BACKEND_PEFILE = "pefile"
 
 E_MISSING_RULES = 10
 E_MISSING_FILE = 11
@@ -266,6 +267,7 @@ def find_capabilities(ruleset: RuleSet, extractor: FeatureExtractor, disable_pro
 
             pb = pbar(functions, desc="matching", unit=" functions", postfix="skipped 0 library functions", leave=False)
             for f in pb:
+                t0 = time.time()
                 if extractor.is_library_function(f.address):
                     function_name = extractor.get_function_name(f.address)
                     logger.debug("skipping library function 0x%x (%s)", f.address, function_name)
@@ -284,7 +286,18 @@ def find_capabilities(ruleset: RuleSet, extractor: FeatureExtractor, disable_pro
                 feature_counts.functions += (
                     rdoc.FunctionFeatureCount(address=frz.Address.from_capa(f.address), count=feature_count),
                 )
-                logger.debug("analyzed function 0x%x and extracted %d features", f.address, feature_count)
+                t1 = time.time()
+
+                match_count = sum(len(res) for res in function_matches.values())
+                match_count += sum(len(res) for res in bb_matches.values())
+                match_count += sum(len(res) for res in insn_matches.values())
+                logger.debug(
+                    "analyzed function 0x%x and extracted %d features, %d matches in %0.02fs",
+                    f.address,
+                    feature_count,
+                    match_count,
+                    t1 - t0,
+                )
 
                 for rule_name, res in function_matches.items():
                     all_function_matches[rule_name].extend(res)
@@ -555,8 +568,12 @@ def get_extractor(
 
         return capa.features.extractors.binja.extractor.BinjaFeatureExtractor(bv)
 
-    # default to use vivisect backend
-    else:
+    elif backend == BACKEND_PEFILE:
+        import capa.features.extractors.pefile
+
+        return capa.features.extractors.pefile.PefileFeatureExtractor(path)
+
+    elif backend == BACKEND_VIV:
         import capa.features.extractors.viv.extractor
 
         with halo.Halo(text="analyzing program", spinner="simpleDots", stream=sys.stderr, enabled=not disable_progress):
@@ -573,6 +590,9 @@ def get_extractor(
                 logger.debug("CAPA_SAVE_WORKSPACE unset, not saving workspace")
 
         return capa.features.extractors.viv.extractor.VivisectFeatureExtractor(vw, path, os_)
+
+    else:
+        raise ValueError("unexpected backend: " + backend)
 
 
 def get_file_extractors(sample: Path, format_: str) -> List[FeatureExtractor]:
@@ -899,7 +919,7 @@ def install_common_args(parser, wanted=None):
             "--backend",
             type=str,
             help="select the backend to use",
-            choices=(BACKEND_VIV, BACKEND_BINJA),
+            choices=(BACKEND_VIV, BACKEND_BINJA, BACKEND_PEFILE),
             default=BACKEND_VIV,
         )
 
@@ -1060,7 +1080,7 @@ def handle_common_args(args):
         args.signatures = sigs_path
 
 
-def main(argv=None):
+def main(argv: Optional[List[str]] = None):
     if sys.version_info < (3, 8):
         raise UnsupportedRuntimeError("This version of capa can only be used with Python 3.8+")
 
@@ -1238,7 +1258,7 @@ def main(argv=None):
                     args.backend,
                     sig_paths,
                     should_save_workspace,
-                    disable_progress=args.quiet,
+                    disable_progress=args.quiet or args.debug,
                 )
             except UnsupportedFormatError:
                 log_unsupported_format_error()

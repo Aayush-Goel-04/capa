@@ -1,4 +1,4 @@
-# Copyright (C) 2020 Mandiant, Inc. All Rights Reserved.
+# Copyright (C) 2023 Mandiant, Inc. All Rights Reserved.
 # Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at: [package root]/LICENSE.txt
@@ -40,8 +40,20 @@ def extract_file_export_names(pe, **kwargs):
                 name = export.name.partition(b"\x00")[0].decode("ascii")
             except UnicodeDecodeError:
                 continue
-            va = base_address + export.address
-            yield Export(name), AbsoluteVirtualAddress(va)
+
+            if export.forwarder is None:
+                va = base_address + export.address
+                yield Export(name), AbsoluteVirtualAddress(va)
+
+            else:
+                try:
+                    forwarded_name = export.forwarder.partition(b"\x00")[0].decode("ascii")
+                except UnicodeDecodeError:
+                    continue
+                forwarded_name = capa.features.extractors.helpers.reformat_forwarded_export_name(forwarded_name)
+                va = base_address + export.address
+                yield Export(forwarded_name), AbsoluteVirtualAddress(va)
+                yield Characteristic("forwarded export"), AbsoluteVirtualAddress(va)
 
 
 def extract_file_import_names(pe, **kwargs):

@@ -1,4 +1,4 @@
-# Copyright (C) 2020 Mandiant, Inc. All Rights Reserved.
+# Copyright (C) 2023 Mandiant, Inc. All Rights Reserved.
 # Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at: [package root]/LICENSE.txt
@@ -75,10 +75,11 @@ def get_stack_string_len(f: Function, il: MediumLevelILInstruction) -> int:
         return 0
 
     dest = il.params[0]
-    if dest.operation != MediumLevelILOperation.MLIL_ADDRESS_OF:
+    if dest.operation in [MediumLevelILOperation.MLIL_ADDRESS_OF, MediumLevelILOperation.MLIL_VAR]:
+        var = dest.src
+    else:
         return 0
 
-    var = dest.src
     if var.source_type != VariableSourceType.StackVariableSourceType:
         return 0
 

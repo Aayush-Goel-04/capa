@@ -1,4 +1,4 @@
-# Copyright (C) 2020 Mandiant, Inc. All Rights Reserved.
+# Copyright (C) 2023 Mandiant, Inc. All Rights Reserved.
 # Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at: [package root]/LICENSE.txt
@@ -106,6 +106,7 @@ SUPPORTED_FEATURES: Dict[str, Set] = {
         capa.features.common.Class,
         capa.features.common.Namespace,
         capa.features.common.Characteristic("mixed mode"),
+        capa.features.common.Characteristic("forwarded export"),
     },
     FUNCTION_SCOPE: {
         capa.features.common.MatchedRule,
